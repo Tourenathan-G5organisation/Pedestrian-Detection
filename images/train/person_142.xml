@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>person_142.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/train/person_142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>7</ymin>
+			<xmax>416</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>197</ymin>
+			<xmax>223</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

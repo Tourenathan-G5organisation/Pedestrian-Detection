@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>FudanPed00005.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/train/FudanPed00005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>51</ymin>
+			<xmax>321</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>48</ymin>
+			<xmax>46</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

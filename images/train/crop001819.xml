@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>crop001819.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/train/crop001819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>102</ymin>
+			<xmax>177</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

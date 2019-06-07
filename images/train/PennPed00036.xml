@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PennPed00036.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/train/PennPed00036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>694</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>57</ymin>
+			<xmax>182</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>31</ymin>
+			<xmax>646</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

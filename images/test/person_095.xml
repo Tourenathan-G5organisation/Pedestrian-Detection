@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>person_095.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/test/person_095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>94</ymin>
+			<xmax>361</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

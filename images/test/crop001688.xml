@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>crop001688.jpg</filename>
+	<path>/home/jideon/Documents/person data/images/test/crop001688.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1176</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>180</ymin>
+			<xmax>844</xmax>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>274</ymin>
+			<xmax>1110</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>
